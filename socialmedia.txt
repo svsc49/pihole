@@ -2,11 +2,19 @@
 # Eigene Social-Media-Liste für Pihole
 # Stand: 2022-04-02
 # ------------------------------------
+(\.|^)twitter.de$
 twitter.de
+(\.|^)twitter.com$
 twitter.com
+(\.|^)instagram.com$
 instagram.com
+(\.|^)instagram.de$
 instagram.de
+(\.|^)facebook.de$
 facebook.de
+(\.|^)facebook.com$
 facebook.com
+(\.|^)reddit.com$
 reddit.com
+(\.|^)reddit.de$
 reddit.de
