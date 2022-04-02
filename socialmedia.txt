@@ -1,3 +1,12 @@
-https://twitter.de
-https://twitter.com
-https://instagram.com
+# -------------------------------------
+# Eigene Social-Media-Liste für Pihole
+# Stand: 2022-04-02
+# ------------------------------------
+twitter.de
+twitter.com
+instagram.com
+instagram.de
+facebook.de
+facebook.com
+reddit.com
+reddit.de
